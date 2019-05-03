@@ -237,7 +237,7 @@
         {
           "alt": "5 žvaigždutės panaudojimas",
           "title": "5 žvaigždutės panaudojimas",
-          "body": "<p>Pavyzdžiui- duomenų rinkinys su informacija apie pastatus dažnai turi pašto kodus prieš kitus įrašus apie objektą:<br/><br><b>Pastato numeris</b>: 32<br><b>Pašto kodas</b>: SO17 1BJ<br><b>Apygarda</b>: Postwood<br><b>Miestas</b>: City of Southampton<br/><br>Susietais duomenimis mus nebereikia duplikuoti duomenų- tokių kaip apygarda arba miestas, kuriuos prižiūri vietinė administracija. Taip įrašas tampa:<br><br><b>Pastato numeris</b>: 32<br><b>Pašto kodas</b>: <a href='http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ' style='word-wrap: break-word;' target='_blank'>http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ</a></p>"
+          "body": "<p>Pavyzdžiui- duomenų rinkinys su informacija apie pastatus dažnai turi pašto kodus prieš kitus įrašus apie objektą:<br/><br><b>Pastato numeris</b>: 32<br><b>Pašto kodas</b>: SO17 1BJ<br><b>Apygarda</b>: Postwood<br><b>Miestas</b>: City of Southampton<br/><br>Susietais duomenimis mus nebereikia dublikuoti duomenų- tokių kaip apygarda arba miestas, kuriuos prižiūri vietinė administracija. Taip įrašas tampa:<br><br><b>Pastato numeris</b>: 32<br><b>Pašto kodas</b>: <a href='http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ' style='word-wrap: break-word;' target='_blank'>http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ</a></p>"
         },
         {
           "alt": "Pabandykite naudoti 5 brandos lygį",

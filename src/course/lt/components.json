@@ -97,7 +97,7 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "Pasirink tinkamus variantus ir spausk ‘submit’",
+    "instruction": "Pasirink variantą ir spausk ‘submit’",
     "_items": [
       {
         "text": "jis apibrėžia, kodėl atvirų duomenų programa turėtų tęstis",
@@ -267,7 +267,7 @@
     "_items": [
       {
         "title": "Naudotojai nežino apie jūsų duomenis",
-        "body": "<p>Galite turėti puikus duomenis, su kuriais galima padaryti teigiamą pokytį, tačiau potencialūs duomenų naudotojai apie tokį poveikį nežino.</p><p>Vienas iš pagrindinių būdų viešinti duomenis- nustatyti specifinius su jais susijusius iššūkius. <a href=\"http://www.nesta.org.uk/project/open-data-challenge-series\" target=\"_blank\">Iššūkių serijos (chhallenge series)</a> yra puikus būdas suburti potencialius duomenų naudotojus. Pasiūlant prizą ir pristatant atvirų inovacijų procesą galima lengvai užmotyvuoti potencialius duomenų naudotojus ir pasiekti teigiamo poveikio rezultatų.</p><p>Taip pat duomenų naudojimui padeda gerųjų pavyzdžių komunikavimas.</p>",
+        "body": "<p>Galite turėti puikius duomenis, su kuriais galima padaryti teigiamą pokytį, tačiau potencialūs duomenų naudotojai apie tokį poveikį nežino.</p><p>Vienas iš pagrindinių būdų viešinti duomenis- nustatyti specifinius su jais susijusius iššūkius. <a href=\"http://www.nesta.org.uk/project/open-data-challenge-series\" target=\"_blank\">Iššūkių serijos (challenge series)</a> yra puikus būdas suburti potencialius duomenų naudotojus. Pasiūlant prizą ir pristatant atvirų inovacijų procesą galima lengvai užmotyvuoti potencialius duomenų naudotojus ir pasiekti teigiamo poveikio rezultatų.</p><p>Taip pat duomenų naudojimui padeda gerųjų pavyzdžių komunikavimas.</p>",
         "_graphic": {
           "src": "course/lt/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
           "alt": "",
